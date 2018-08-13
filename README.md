@@ -1,2 +1,2 @@
 # Learning
-Learning Git 
+Learning Git - for leanring GIT process
